@@ -1,0 +1,14 @@
+{
+	"name" : "Traditional Chinese Fonts",
+	"description" : "Replaces original bitmap fonts with Noto Sans CJK TC to support Traditional Chinese characters",
+	"version" : "1.0.0",
+	"author" : "Google, Adobe",
+	"contact" : "https://github.com/notofonts/noto-cjk",
+	"licenseName" : "SIL Open Font License 1.1",
+	"licenseURL" : "https://openfontlicense.org/open-font-license-official-text/",
+	"modType" : "Graphical",
+	"tchinese" : {
+		"name" : "繁體中文字型",
+		"description" : "以 Noto Sans CJK TC（思源黑體）取代原版點陣字型，以支援繁體中文字元"
+	}
+}

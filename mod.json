@@ -1,0 +1,31 @@
+{
+	"name" : "Traditional Chinese translation",
+	"description" : "Traditional Chinese translation of Heroes of Might and Magic III: Complete Edition",
+	"version" : "1.0.0",
+	"author" : "",
+	"contact" : "https://vcmi.eu/",
+	"language" : "tchinese",
+	"modType" : "Translation",
+	"compatibility" : {
+		"min" : "1.8.0"
+	},
+	"changelog" : {
+		"1.0.0" : [
+			"Initial release"
+		]
+	},
+	"german" : {
+		"name" : "Übersetzung in traditionelles Chinesisch",
+		"description" : "Übersetzung von Heroes of Might and Magic III: Complete Edition in traditionelles Chinesisch"
+	},
+	"tchinese" : {
+		"name" : "繁體中文翻譯",
+		"description" : "《魔法門之英雄無敵III：完全版》（Heroes of Might and Magic III: Complete）的繁體中文翻譯。"
+	},
+	"translations" : [
+		"config/vcmi-tchinese/game.json",
+		"config/vcmi-tchinese/maps.json",
+		"config/vcmi-tchinese/campaigns.json",
+		"config/vcmi-tchinese/chronicles.json"
+	]
+}
